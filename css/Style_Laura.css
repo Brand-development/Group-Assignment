@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+h1 {font-family: 'Pacifico', cursive; text-align: top; padding: 20px;}
+
+
+img {padding: 10px }
+
+h2 {font-family: 'Special Elite', cursive;}
+
+p {font-family: 'Nanum Myeongjo', serif;
+font-family: 'Playfair Display', serif;}
+
+
+.navbar-nav
+ {color: lightgreen; }
+
+.container {
+  position: relative; 
+  max-width: 800px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+}
+
+.container .content {
+  position: absolute; /* Position the background text */
+  top: 0; /* At the top. Use bottom:0 to append it to the bottom */
+  background: rgb(550, 550, 550); /* Fallback color */
+  background: rgba(550, 550, 550, 0.5); /* white background with 0.5 opacity */
+  color: black; /* Black text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
