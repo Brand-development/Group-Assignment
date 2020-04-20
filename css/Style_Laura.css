@@ -12,7 +12,9 @@ img {padding: 10px }
 h2 {font-family: 'Special Elite', cursive;}
 
 p {font-family: 'Nanum Myeongjo', serif;
-font-family: 'Playfair Display', serif;}
+font-family: 'Playfair Display', serif;
+background-color: rgba(550, 550, 550, 0.7);
+}
 
 body {
 	background: url("../Images/TeaLeavesBackground.jpg");
