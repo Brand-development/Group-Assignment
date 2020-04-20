@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+h1 {font-family: 'Pacifico', cursive; 
+	text-align: top; 
+	text-align: center;
+	padding: 20px;
+	background-color: rgba(550, 550, 550, 0.7);
+}
+
+h2 {font-family: 'Special Elite', cursive;}
+
+h3 {font-family: 'Special Elite', cursive;}
+
+body {
+	background: white;
+}
+
+.navbar-nav
+ {color: darkgreen; }
