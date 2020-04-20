@@ -15,5 +15,6 @@ body {
 	background: white;
 }
 
-.navbar-nav
- {color: darkgreen; }
+.navbar {
+	background-image: url("../Images/NavBar.jpg");
+}
