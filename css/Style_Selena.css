@@ -1,13 +1,10 @@
 @charset "utf-8";
 
 h1 {font-family: 'Pacifico', cursive; 
-  text-align: top; 
-  padding: 20px;
-  background-color: rgba(550, 550, 550, 0.7);
+	text-align: top; 
+	padding: 20px;
+	background-color: rgba(550, 550, 550, 0.7);
 }
-
-
-img {padding: 10px }
 
 h2 {font-family: 'Special Elite', cursive;}
 text-align: center
@@ -25,10 +22,6 @@ body {
   margin: 0; 
   padding: 0;
 }
-
-
-.navbar-nav
- {color: lightgreen; }
 
 .container {
   position: relative; 
