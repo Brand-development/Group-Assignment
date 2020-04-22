@@ -26,6 +26,12 @@ body {
   padding: 0;
 }
 
+footer { 
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+
 .container {
   position: relative; 
   max-width: 800px; /* Maximum width */
