@@ -17,6 +17,7 @@ p {
 
 footer { 
 	background-image: url("../Images/NavBar.jpg");
+	float: bottom;
 	margin-top: 50px;
 	margin-bottom: 0px;
 	margin-left: 10px;
