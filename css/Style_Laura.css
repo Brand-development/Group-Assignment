@@ -23,6 +23,12 @@ body {
 	padding: 0;
 }
 
+footer { 
+
+margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
 
 .navbar-nav
  {color: lightgreen; }
@@ -34,7 +40,6 @@ body {
 }
 
 .container .content {
-  position: absolute; /* Position the background text */
   top: 0; /* At the top. Use bottom:0 to append it to the bottom */
 	background: rgb(550, 550, 550); /* Fallback color */
   background: rgba(550, 550, 550, 0.7); /* white background with 0.5 opacity */
