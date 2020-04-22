@@ -10,9 +10,11 @@ h2 {
 	font-family: 'Special Elite', cursive;
 }
 
-p {
-	font-family: 'Nanum Myeongjo', serif;
-	font-family: 'Playfair Display', serif;
+footer { 
+	background-image: url("../Images/NavBar.jpg");
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 10px;
 }
 
 .navbar {
