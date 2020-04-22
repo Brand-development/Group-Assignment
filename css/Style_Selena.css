@@ -1,17 +1,20 @@
 @charset "utf-8";
 
-h1 {font-family: 'Pacifico', cursive; 
+h1 {
+	font-family: 'Pacifico', cursive; 
 	text-align: top; 
 	padding: 20px;
 	background-color: rgba(550, 550, 550, 0.7);
 }
 
-h2 {font-family: 'Special Elite', cursive;}
-text-align: center
+h2 {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
 
-p {font-family: 'Nanum Myeongjo', serif;
-font-family: 'Playfair Display', serif;
-background-color: rgba(550, 550, 550, 0.7);
+h3 {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
 }
 
 body {
