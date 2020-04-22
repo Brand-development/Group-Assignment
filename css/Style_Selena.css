@@ -27,6 +27,7 @@ body {
 }
 
 footer { 
+	background: rgba(550, 550, 550, 0.7); /* white background with 0.5 opacity */
 	float: bottom;
 	margin-top: 50px;
 	margin-bottom: 0px;
