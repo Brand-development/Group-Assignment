@@ -16,6 +16,13 @@ body {
 	background: white;
 }
 
+footer { 
+	background-image: url("../Images/NavBar.jpg");
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+
 .navbar {
 	background-image: url("../Images/NavBar.jpg");
 }
