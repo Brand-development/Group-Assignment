@@ -30,3 +30,14 @@ footer {
 	float: right;
 	margin: 0 100px;
 }
+
+.button {
+	background-color: darkseagreen; 
+	height: 50px; 
+	width: 700px;
+}
+
+.button:hover {
+	height: 55px; 
+	width: 705px;
+}
