@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+h1 {
+	font-family: 'Pacifico', cursive; 
+	text-align: top; 
+	padding: 20px;
+}
+
+h2 {
+	font-family: 'Special Elite', cursive;
+}
+
+footer { 
+	background-image: url("../Images/NavBar.jpg");
+	float: bottom;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+
+.navbar {
+	background-image: url("../Images/NavBar.jpg");
+}
+
+.img {
+	padding: 10px 
+}
+
+.shopping {
+	float: right;
+	margin: 0 100px;
+}
+
+.button {
+	background-color: darkseagreen; 
+	height: 50px; 
+	width: 700px;
+}
+
+.button:hover {
+	height: 55px; 
+	width: 705px;
+}
