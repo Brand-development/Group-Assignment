@@ -17,6 +17,11 @@ h3 {
 	text-align: center;
 }
 
+h5 {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
+
 body {
   background: url("../Images/TeaLeavesBackground.jpg");
   background-attachment: fixed;
@@ -34,6 +39,38 @@ footer {
 	margin-left: 10px;
 }
 
+.facebook { 
+	width: 225px;
+	height: 232px;
+}
+
+.facebook:hover { 
+	width: 235px;
+	height: 242px;
+}
+
+.instagram {
+	width: 225px;
+	height: 232px;
+}
+
+.instagram:hover { 
+	width: 235px;
+	height: 242px;
+}
+
+.button {
+	background-color: darkseagreen; 
+	border-color: ;
+	height: 50px; 
+	width: 700px;
+}
+
+.button:hover {
+	height: 55px; 
+	width: 705px;
+}
+
 .container {
   position: relative; 
   max-width: 800px; /* Maximum width */
@@ -45,4 +82,13 @@ footer {
   background: rgba(550, 550, 550, 0.7); /* white background with 0.5 opacity */
   color: black; /* Black text */
   width: 100%; /* Full width */
+}
+
+.shopping {
+	float: right;
+	margin: 0 100px;
+}
+
+@media screen{ 
+	}
 }

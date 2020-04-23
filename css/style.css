@@ -30,3 +30,8 @@ footer {
 .img {
 	padding: 10px 
 }
+
+.shopping {
+	float: right;
+	margin: 0 100px;
+}

@@ -27,3 +27,8 @@ footer {
 .navbar {
 	background-image: url("../Images/NavBar.jpg");
 }
+
+.shopping {
+	float: right;
+	margin: 0 100px;
+}

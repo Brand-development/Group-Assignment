@@ -47,3 +47,8 @@ footer {
   width: 100%; /* Full width */
   padding: 20px; /* Some padding */
 }
+
+.shopping {
+	float: right;
+	margin: 0 100px;
+}
