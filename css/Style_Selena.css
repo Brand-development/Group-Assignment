@@ -59,13 +59,15 @@ footer {
 	height: 242px;
 }
 
-.button {
-	background-color: darkseagreen; 
+#button {
+	background-color: darkseagreen;
+	height: 50px; 
+	width: 250px;
 }
 
-.button:hover {
+#button:hover {
 	height: 55px; 
-	width: 705px;
+	width: 255px;
 }
 
 .container {
@@ -88,6 +90,7 @@ footer {
 
 @media screen{ 
 	}
-.img {
+
+#img {
 	width: 100%;
 }
