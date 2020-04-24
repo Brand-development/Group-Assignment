@@ -31,6 +31,12 @@ footer {
 	margin: 0 100px;
 }
 
+.container {
+  position: relative; 
+  max-width: 800px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+}
+
 .button {
 	background-color: darkseagreen; 
 
@@ -39,4 +45,8 @@ footer {
 .button:hover {
 	height: 35px; 
 	width: 135px;
+}
+
+#img {
+	width: 100%;
 }
